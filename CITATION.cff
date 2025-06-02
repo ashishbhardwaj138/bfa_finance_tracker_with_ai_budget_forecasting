@@ -1,13 +1,13 @@
-cff-version: 1.2.0
+cff-version: 0.0.1
 message: "If you use this software, please cite it as below."
 title: "Smart Personal Finance Tracker"
 authors:
-  - family-names: Vikram
-    given-names: [Your First Name]
+  - family-names: Ashish Bhardwaj
+    given-names: [Ashish]
     affiliation: "Open Source Contributor"
-    orcid: "https://orcid.org/0000-0000-0000-0000"  # Replace with your ORCID if available
-date-released: 2025-06-01
+    orcid: "https://orcid.org/0000-0000-0000-0000"  # dummy , will update later on
+date-released: 2025-06-15
 version: "0.1.0"
 license: Apache-2.0
-repository-code: https://github.com/yourusername/finance-tracker-ai
-doi: 10.5281/zenodo.1234567  # Placeholder, replace if you register on Zenodo
+repository-code: https://github.com/ashishbhardwaj138/bfa_finance_tracker_with_ai_budget_forecasting
+doi: 10.5281/zenodo.1234567 # dummy , will update later on
